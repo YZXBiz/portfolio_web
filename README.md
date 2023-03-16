@@ -27,7 +27,7 @@ address provided on this site or through LinkedIn. I welcome the opportunity to 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/YZXBiz/Jackson_Portfolio/main/Images/Self_Check_out.webp> **[Self Check-Out Fraud Detection (Python) ](https://github.com/YZXBiz/Jackson_Portfolio/blob/main/Projects/Fraud%20Detection%20at%20Self%20Check-Out/Self_Checkout_Code.ipynb)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/YZXBiz/Jackson_Portfolio/main/Images/Self_Check_out.webp"> **[Self Check-Out Fraud Detection (Python) ](https://github.com/YZXBiz/Jackson_Portfolio/blob/main/Projects/Fraud%20Detection%20at%20Self%20Check-Out/Self_Checkout_Code.ipynb)**
 
 [Model Deployment](https://fraud-detection-production.up.railway.app/). Self-checkout systems in retail stores offer convenience for customers, but can also leave retailers vulnerable to fraud if not properly monitored. A fraud detection model can help retailers identify suspicious activity and target certain purchases for additional scrutiny in order to prevent abuse and loss. In this project, we will aim to minimize the number of checks performed to avoid unnecessary expenses and to prevent falsely accusing innocent customers and causing them inconvenience.
 
